@@ -1,0 +1,23 @@
+
+
+.legend-bivar {
+  padding: 2px;
+  font: 10px Arial, Helvetica, sans-serif;
+  background: white;
+  box-shadow: none;
+  border: black;
+  border: 2px solid rgba(0,0,0,0.2);
+  border-radius: 5px;
+  background-clip: padding-box;
+}
+
+.legend-bivar img{
+  margin: 0;
+}
+
+.shiny-input-container {
+  padding: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  /*padding: 12px 15px 0px 12px;*/
+}
