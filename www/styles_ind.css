@@ -7,3 +7,9 @@
   color:black;
 }
 
+.value sup {
+   vertical-align: top;
+   font-size:15px;
+   position: relative; 
+   top: -1em;
+}
