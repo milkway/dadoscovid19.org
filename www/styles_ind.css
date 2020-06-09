@@ -13,3 +13,9 @@
    position: relative; 
    top: -1em;
 }
+
+.navbar-logo img {
+   height:50px;
+   margin: 4px 20px 0 -10px;
+   padding: 0;
+}
