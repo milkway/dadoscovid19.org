@@ -9,6 +9,22 @@
     line-height: 1.2;
 }
 
+.dado {
+    color: #212121;
+    width:350px;
+    font: 14px/1 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.dado ul {
+  list-style-image: url('circle.svg');
+}
+
+.dado ul li:not(:last-child) {
+    margin-bottom: 15px;
+}
+
 .bluejade {
   color: #003cbf;
 }
